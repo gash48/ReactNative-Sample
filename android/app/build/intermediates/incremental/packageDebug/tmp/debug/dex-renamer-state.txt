@@ -1,0 +1,4 @@
+#Sat May 11 23:00:44 IST 2019
+base.0=/Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.3] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/react-native-0.59.3.aar/b90b4c62f7837704a1715d10f42e8806/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/49eef5fb6220099749a3bebe570fd5e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cf2aa21bed8cf2cc62a0603bb345ab11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/08cf3b5098838254e1037837f1b536d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3645b4857798b4df85e86ec3dd5af257/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7fe8445efc729d55e7daaf74e7ee1dbb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/277ee3a3f4c75a2bdbe6b3db7bc2a635/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9fd7f363e1097a4dae64884bee80876d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a1bb155c0730a465d5dc5e9350312445/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ba2eea346d6dafdbbc5bfd06d5bc74dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ade87c6d386b15a6263f9fed28c60942/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bbe8c1b54b86721b67fb5e0917cc584f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/dcafdb1d54ea0ec452b80302913e2665/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/10e1e31b3f2a7815e66cac43ff23b4d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/6df7cc3d212280530591de5c0a11bb26/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/487086d4bf2eca718c9311193a65edf3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/88cf012aeba4803ad60e2413dd1bace4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0af2672a487a31409bf0461b371a8299/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e46a695c47cd88a004b6c2d4fbd6a03a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0dab65fc8a7970517ed401cb1a5c2226/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7c2f6a52540ba6e85a4175683dd79b58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6a978ca3d29e475403753c53c6c398b0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3acb407b627390141cbe8072b38f4564/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b4ba11e368d91ab0f1b8c87940580f22/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8255bd59435a40a057c0283407c432e7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b18ca80fb519540c30400de150e380c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e4c99fa7d530ac84f261bb5f07a4c24a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/ae8a6f37171d02e5ae33a45e578bb772/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/74a95c5548bba3c79574ce9649b03451/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/b5fda4cbd7cfec40a0b25a0b9223aba5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/6a1bebf4a5e2202c348adb5bfa105301/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/af332d94fd0ef79810fabf024bb56146/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/58102abccf2bc414caa07337f4635cb8/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/f32d79346ecb0b856f64a7c5679ae2e8/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.3] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/react-native-0.59.3.aar/b90b4c62f7837704a1715d10f42e8806/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.3] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/react-native-0.59.3.aar/b90b4c62f7837704a1715d10f42e8806/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/487086d4bf2eca718c9311193a65edf3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/487086d4bf2eca718c9311193a65edf3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/88cf012aeba4803ad60e2413dd1bace4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/88cf012aeba4803ad60e2413dd1bace4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/58102abccf2bc414caa07337f4635cb8/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/58102abccf2bc414caa07337f4635cb8/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/487086d4bf2eca718c9311193a65edf3/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.rntest.MainActivity
+ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.3] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/react-native-0.59.3.aar/b90b4c62f7837704a1715d10f42e8806/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.3] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/react-native-0.59.3.aar/b90b4c62f7837704a1715d10f42e8806/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/49eef5fb6220099749a3bebe570fd5e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/49eef5fb6220099749a3bebe570fd5e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cf2aa21bed8cf2cc62a0603bb345ab11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cf2aa21bed8cf2cc62a0603bb345ab11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/08cf3b5098838254e1037837f1b536d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/08cf3b5098838254e1037837f1b536d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3645b4857798b4df85e86ec3dd5af257/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3645b4857798b4df85e86ec3dd5af257/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7fe8445efc729d55e7daaf74e7ee1dbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7fe8445efc729d55e7daaf74e7ee1dbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/277ee3a3f4c75a2bdbe6b3db7bc2a635/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/277ee3a3f4c75a2bdbe6b3db7bc2a635/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9fd7f363e1097a4dae64884bee80876d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9fd7f363e1097a4dae64884bee80876d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a1bb155c0730a465d5dc5e9350312445/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a1bb155c0730a465d5dc5e9350312445/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ba2eea346d6dafdbbc5bfd06d5bc74dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ba2eea346d6dafdbbc5bfd06d5bc74dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ade87c6d386b15a6263f9fed28c60942/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ade87c6d386b15a6263f9fed28c60942/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bbe8c1b54b86721b67fb5e0917cc584f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bbe8c1b54b86721b67fb5e0917cc584f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/dcafdb1d54ea0ec452b80302913e2665/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/dcafdb1d54ea0ec452b80302913e2665/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/10e1e31b3f2a7815e66cac43ff23b4d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/10e1e31b3f2a7815e66cac43ff23b4d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/6df7cc3d212280530591de5c0a11bb26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/6df7cc3d212280530591de5c0a11bb26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/487086d4bf2eca718c9311193a65edf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/487086d4bf2eca718c9311193a65edf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/88cf012aeba4803ad60e2413dd1bace4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/88cf012aeba4803ad60e2413dd1bace4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0af2672a487a31409bf0461b371a8299/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0af2672a487a31409bf0461b371a8299/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e46a695c47cd88a004b6c2d4fbd6a03a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e46a695c47cd88a004b6c2d4fbd6a03a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0dab65fc8a7970517ed401cb1a5c2226/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0dab65fc8a7970517ed401cb1a5c2226/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7c2f6a52540ba6e85a4175683dd79b58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7c2f6a52540ba6e85a4175683dd79b58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6a978ca3d29e475403753c53c6c398b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6a978ca3d29e475403753c53c6c398b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3acb407b627390141cbe8072b38f4564/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3acb407b627390141cbe8072b38f4564/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b4ba11e368d91ab0f1b8c87940580f22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b4ba11e368d91ab0f1b8c87940580f22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8255bd59435a40a057c0283407c432e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8255bd59435a40a057c0283407c432e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b18ca80fb519540c30400de150e380c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b18ca80fb519540c30400de150e380c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e4c99fa7d530ac84f261bb5f07a4c24a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e4c99fa7d530ac84f261bb5f07a4c24a/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/ae8a6f37171d02e5ae33a45e578bb772/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/ae8a6f37171d02e5ae33a45e578bb772/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/74a95c5548bba3c79574ce9649b03451/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/74a95c5548bba3c79574ce9649b03451/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/b5fda4cbd7cfec40a0b25a0b9223aba5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/b5fda4cbd7cfec40a0b25a0b9223aba5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/6a1bebf4a5e2202c348adb5bfa105301/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/6a1bebf4a5e2202c348adb5bfa105301/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/af332d94fd0ef79810fabf024bb56146/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/af332d94fd0ef79810fabf024bb56146/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/58102abccf2bc414caa07337f4635cb8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/58102abccf2bc414caa07337f4635cb8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/f32d79346ecb0b856f64a7c5679ae2e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/sparevinmac/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/f32d79346ecb0b856f64a7c5679ae2e8/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/sparevinmac/Documents/WorkSource/Projects/ReactNative Sample/android/app/src/debug/AndroidManifest.xml:5:22-75
